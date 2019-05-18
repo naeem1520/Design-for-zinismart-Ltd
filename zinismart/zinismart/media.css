@@ -1,0 +1,836 @@
+
+@media screen and (min-width: 1200px) {
+	.col-sm-12-title{
+	display: none;
+}
+
+	.search-body{
+		max-width: 100%;
+		width: 640px;
+	}
+	.slider-area .side-nav ul li.item .sub-item-body{
+		/*width: 100%;*/
+		width: 900px;    
+	}
+	.slider-area .side-nav ul li.item .sub-item-body .sub-item{
+		/*flex: 1 1 33.33%;*/
+		width: 33.33%;
+	}
+}
+
+
+@media screen and (max-width: 1199px) {
+	.contaty {
+    width: 20%;
+}
+    .colorpdc {
+    display: inline-block;
+    width: 37%;
+}
+.Sizepdc {
+    display: inline-block;
+    width: 37%;
+}
+
+	.soniawishlist a {
+	    font-size: 12px;
+	}
+	.category-tab12 {
+    overflow: hidden;
+    height: 600px;
+}
+	.col-for-five {
+	    width: 22%;
+	}
+	.soniaofferreting {
+	    font-size: 12px;
+	    width: 39%;
+	}
+	.search-body{
+		max-width: 100%;
+		width: 420px;
+	}
+	.slider-area .side-nav ul li.item .sub-item-body{
+		/*width: 100%;*/
+		width: 700px;    
+	}
+	.slider-area .side-nav ul li.item .sub-item-body .sub-item{
+		/*flex: 1 1 33.33%;*/
+		width: 33.33%;
+	}	
+
+	.single-popular-course .seat-rating-fee .course-fee a{
+		width: 56px;
+	}
+	.single-popular-course .seat-rating-fee .seat-rating div{
+		padding: 0 10px;
+	}
+	.slider-area .side-nav ul li.item a.item-title{
+		font-size: 12px;
+		height: 38px;
+	}
+	.col-sm-12-title{
+	display: none;
+}
+	
+.contatytopul .add-to-card {
+    padding: 3px 2px;
+}
+.contatytopul .add-to-wishlist a {
+    font-size: 12px;
+}
+.contatytopul .add-to-Returns {
+    background-color: #ff0000;
+    padding: 3px 6px;
+    margin-bottom: 10px;
+}
+
+}
+
+
+
+@media screen and (max-width: 992px) {
+	.contatytopul .add-to-card {
+    padding: 3px 2px;
+}
+.contatytopul .add-to-wishlist a {
+    font-size: 12px;
+}
+.contatytopul .add-to-Returns {
+    background-color: #ff0000;
+    padding: 3px 6px;
+    margin-bottom: 10px;
+}
+	.stocknum12 li:first-child {
+    padding: 5px 0px;
+    font-size: 12px;
+    border: 1px solid transparent;
+}
+.stocknum12 li {
+    border: 1px solid #dad6d6;
+    font-size: 12px;
+    padding: 5px 0px;
+}
+	.mainmenu-area1{
+		display: none;
+	}
+	.childproductname {
+    padding: 0px 0px;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+	.sorter-label {
+    color: #666;
+    margin-left: 10px;
+    padding-top: 10px;
+    text-align: right;
+    width: 20%;
+    font-size: 14px;
+    font-weight: 600;
+}
+	.soniawishlist a {
+	    font-size: 12px;
+	}
+	.category-tab12 {
+    overflow: hidden;
+    height: 600px;
+}
+	.col-for-five {
+	    width: 29%;
+	}
+	.soniaofferreting {
+	    font-size: 12px;
+	    width: 45%;
+	}
+	.soniaclassycloseIcon{display: inline-block!important;}
+	.search-body{
+		max-width: 100%;
+		width: 420pxp;
+	}
+	.slider-area .side-nav {
+		display: none;
+	}
+	/*mobile nav*/
+	.classynav{
+		display: block;
+	}
+	.search-body{
+		display: none;
+	}
+	.mobile-search{
+		display: block;
+	}
+	.favicon-img{
+		display: none;
+	}
+	.classy-navbar{
+		justify-content: center ;
+	}
+	/*top header*/
+	
+	.top-header-area .contact-info a{
+		font-size: 15px;
+	}
+	.top-header-area .follow-us a:nth-of-type(1){
+		border-left: 0;
+	}
+	.top-header-area .contact-info a:last-of-type{
+		border-left: 0;
+	}
+	.single-popular-course .seat-rating-fee .course-fee a{
+		width: 45px;
+	}
+	.single-popular-course .seat-rating-fee .seat-rating div{
+		padding: 0 7px;
+	}
+	.sonianuws input {
+    
+    width: 160px;
+    
+}
+.col-sm-12-title{
+	display: none;
+}
+.contaty li {
+    height: 25px;
+    width: 25px;
+    border: 1px solid #dad6d6;
+    float: left;
+    padding: 0px 7px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #666;
+}
+.add-to-card a {
+    color: #fff;
+    font-size: 11px;
+}
+.add-to-wishlist a {
+    color: #fff;
+    font-size: 12px;
+}
+.contatytopul .add-to-Returns a {
+    color: #fff;
+    font-size: 12px;
+}
+.pstrongad {
+    margin: 0px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 0px;
+}
+.logoiconad1 {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0;
+}
+.add-to-card {
+    padding: 3px 1px;
+    width: 28%;
+    margin-left: 4px;
+}
+.add-to-wishlist {
+    background-color: #232f;
+    padding: 3px 0px;
+    display: inline-block;
+    width: 37%;
+    text-align: center;
+    margin-left: 0px;
+}
+.contatytopul .add-to-Returns {
+    display: inline-block;
+    width: 38%;
+    background-color: #ff0000;
+    padding: 2px 0px;
+    margin-bottom: 10px;}
+
+	.contaty {
+    width: 28%;
+   
+}
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+	.top-header-area .contact-info a {
+	    display: inline-block;
+	    height: auto;
+	    padding: 0 10px;
+	    color: rgba(255,255,255,.8);
+	    font-size: 18px;
+	    border-right: 1px solid #ebebeb36;
+	}
+	.top-header-area .contact-info a {
+	    display: inline-block;
+	    height: auto;
+	    padding: 0 10px;
+	 	line-height: auto;
+	    color: rgba(255,255,255,.8);
+	    font-size: 14px;
+	    border-right: 1px solid #ebebeb36;
+	}
+	.logoiconopad {
+    background-color: #ddd;
+    margin: 0;
+    padding: 0px 5px;
+    display: inherit;
+    margin-left: 1px;
+}
+	
+	.slider, .slider .carousel-item img {
+    height: 150px;
+}
+	.mainmenu-area1{
+		display: none;
+	}
+	.childproductname {
+    padding: 0px 0px;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+	.sorter-label {
+    color: #666;
+    margin-left: 10px;
+    padding-top: 10px;
+    text-align: right;
+    width: 20%;
+    font-size: 14px;
+    font-weight: 600;
+}
+	.stocknum12 li:first-child {
+    padding: 9px 0px;
+    font-size: 10px;
+    border: 1px solid transparent;
+}
+.stocknum12 li {
+    border: 1px solid #dad6d6;
+    font-size: 12px;
+    padding: 5px 0px;
+}
+.stocknum li:first-child {
+    padding: 5px 0px;
+    font-size: 12px;
+}
+.stocknum li {
+    padding: 5px 0px;
+    font-size: 12px;
+}
+.Sizepdc li {
+    height: 25px;
+    width: 25px;
+    margin-right: 5px;
+    padding: 4px;
+}
+.colorpdc .color1 {
+    height: 25px;
+    width: 25px;
+    margin-right: 6px;
+    padding: 4px;
+}
+.colorpdc .color2 {
+    height: 25px;
+    width: 25px;
+    margin-right: 6px;
+    padding: 4px;
+}.colorpdc .color3 {
+    height: 25px;
+    width: 25px;
+    margin-right: 6px;
+    padding: 4px;
+}
+.colorpdc .color4 {
+    height: 25px;
+    width: 25px;
+    margin-right: 6px;
+    padding: 4px;
+}
+.colorpdc .color5 {
+    height: 25px;
+    width: 25px;
+    margin-right: 6px;
+    padding: 4px;
+}
+.contatytopul .add-to-card {
+    padding: 3px 2px;
+}
+.contatytopul .add-to-wishlist {
+    padding: 3px 2px;
+}
+.contatytopul .add-to-card a {
+    font-size: 12px;
+}
+.contatytopul .add-to-wishlist a {
+    font-size: 12px;
+}
+.freeor {
+    font-size: 13px;
+    font-weight: 600;
+}
+.freeora {
+    font-size: 14px;
+}
+	
+	.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12 {
+    float: left
+}
+.col-xs-12 {
+    width: 100%
+}
+.col-xs-11 {
+    width: 91.66666666666666%
+}
+.col-xs-10 {
+    width: 83.33333333333334%
+}
+.col-xs-9 {
+    width: 75%
+}
+.col-xs-8 {
+    width: 66.66666666666666%
+}
+.col-xs-7 {
+    width: 58.333333333333336%
+}
+.col-xs-6 {
+    width: 50%
+}
+.col-xs-5 {
+    width: 41.66666666666667%
+}
+.col-xs-4 {
+    width: 33.33333333333333%
+}
+.col-xs-3 {
+    width: 25%
+}
+.col-xs-2 {
+    width: 16.666666666666664%
+}
+.col-xs-1 {
+    width: 8.333333333333332%
+}
+	.single-widget1 {
+    margin-left: 0px;
+}
+	.single-widget h2 {   
+	    font-size: 10px;
+	    font-weight: 400;
+	    width: 16%;
+	   margin-bottom: 10px;
+	}
+	.single-widget .soniafooternav li a {
+	    font-size: 10px;
+	    padding: 5px 6px;
+	}
+	.homepaje-catagory {
+		    min-height: auto;
+		}
+	.soniapopular{
+		display: none;
+	}
+	.classynav-merchant ul li a {
+	    padding: 0px 12px;
+	    display: block;
+	    font-size: 14px;
+	    line-height: 30px;
+	    margin-left: 0px;
+        margin-right: 10px;
+	    margin-top: 1px;
+	    text-transform: capitalize;
+	    font-weight: 400;
+	    background-color: #D00;
+	    color: #fff;
+	    border-bottom: 1px solid #fff;
+	}
+	.classynav-merchant ul li {
+	    display: block!important;
+	    
+	}
+	.slider-area .owl-carousel figure.hot-item .discount{
+		height: 30px;
+		width: 30px;
+	}
+	.slider-area .owl-carousel figure.hot-item .discount p{
+		line-height: 30px;
+	}
+	.col-for-five {
+	    width: 44%;
+	    float: left;
+	}
+	.panel-body111 ul li a {
+    font-size: 10px;
+}
+.panel-heading12 h4 {
+    padding: 4px 0;
+}
+.soniaofferreting {   
+    font-size: 12px;
+    width: 41%;
+    text-align: center;
+}
+.category-tab12 {
+    overflow: hidden;
+    height: 600px;
+}
+.sonianuws input {
+    width: 160px;
+   
+}
+a.shop-more {
+    border: 1px solid #3762f0;
+    padding: 0px 6px;
+    border-radius: 4px;
+    float: right;
+    margin-bottom: 0px;
+}
+.col-sm-12-title{
+	display: none;
+}
+.contaty li {
+    height: 25px;
+    width: 25px;
+    border: 1px solid #dad6d6;
+    float: left;
+    padding: 0px 7px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #666;
+}
+.add-to-card a {
+    color: #fff;
+    font-size: 11px;
+}
+.add-to-wishlist a {
+    color: #fff;
+    font-size: 12px;
+}
+.contatytopul .add-to-Returns a {
+    color: #fff;
+    font-size: 12px;
+}
+.pstrongad {
+    margin: 0px;
+    font-size: 12px;
+    font-weight: 600;
+    padding-left: 0px;
+}
+.logoiconad1 {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0;
+}
+.add-to-card {
+    padding: 3px 1px;
+    width: 28%;
+    margin-left: 4px;
+}
+.add-to-wishlist {
+    background-color: #232f;
+    padding: 3px 0px;
+    display: inline-block;
+    width: 37%;
+    text-align: center;
+    margin-left: 0px;
+}
+.contatytopul .add-to-Returns {
+    display: inline-block;
+    width: 38%;
+    background-color: #ff0000;
+    padding: 2px 0px;
+    margin-bottom: 10px;}
+
+	.contaty {
+    width: 28%;
+   
+}
+.top-header-area .contact-info {
+    width: 32%;
+   
+}
+.top-header-area .follow-us {
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    width: 66%;
+    text-align: right;
+}
+
+}
+
+
+
+@media screen and (max-width: 576px) { 
+	.logoiconopad {
+    background-color: #ddd;
+    margin: 0;
+    padding: 0px 5px;
+    display: inherit;
+    margin-left: 1px;
+}
+	.contatytopul .add-to-Returns {
+    display: inline-block;
+    width: 32%;
+    background-color: #ff0000;
+    padding: 3px 3px;
+    margin-bottom: 10px;}
+
+	 .add-to-card{
+    width: 30%;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.add-to-wishlist{
+ 
+    width: 32%;
+    text-align: center;
+    margin-left: 10px;
+  
+}
+	.contaty {
+    width: 25%;
+}
+    .colorpdc {
+    display: inline-block;
+    width: 50%;
+}
+.Sizepdc {
+    display: inline-block;
+    width: 50%;
+}
+
+	.spd {
+    	padding: 10px 0px;
+	}
+
+	.col-sm-12-title{
+		display: block;
+		width: 100%;
+    margin-bottom: 10px;
+	}
+	.col-sm-12-title h4{
+		padding: 5px;
+    text-align: center;
+    margin: 0;
+	}
+	.col-sm-12-title h4 a{
+		color: #fff;
+	}
+
+	.childproductname {
+    padding: 0px 0px;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+	.sorter-label {
+    color: #666;
+    margin-left: 10px;
+    padding-top: 10px;
+    text-align: right;
+    width: 20%;
+    font-size: 14px;
+    font-weight: 600;
+}
+	a.shop-more {
+    border: 1px solid #3762f0;
+    padding: 0px 6px;
+    border-radius: 4px;
+    float: right;
+    margin-bottom: 0px;
+}
+	.homepaje-catagoryul .dropdown-menu li a {
+	    display: block;
+	    padding: 3px 0px;
+	    clear: both;
+	    font-weight: normal;
+	    line-height: 1.428571429;
+	    color: #333;
+	    white-space: nowrap;
+	    font-size: 9px;
+	}
+
+	.category-tab12 {
+    overflow: hidden;
+    height: 650px;
+}
+	.homepaje-catagory li {
+    padding: 2px 5px;
+    border-bottom: 1px solid #e6e6e6;
+}
+	.col-for-five {
+	    width: 44%;
+	    float: left;
+	}
+	.d-none-col-xs12{
+		display: none;
+	}
+	
+	.favicon-img{
+		height: 28px;
+	}
+	.sre-btn-toogle i {
+		font-size: 18px;
+		margin-left: 4px;
+	}
+	.logo-img{
+		height: 55px;
+	}
+	.cart-wislist{
+		margin-left: 5px;
+	}
+	.cart-wislist p i {
+		font-size: 18px;
+	}
+	.one-to-99 a {
+		padding: 5px 2px;
+		font-size: 12px;
+		margin: 0 7px;
+	}
+	.one-to-99 a:hover {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 600;
+}
+	.favicon-img{
+		margin-right: 8px;
+	}
+	.classy-navbar .nav-brand{
+		margin-right: 0;
+	}
+	/*top header */
+	.top-header-area {
+		flex-flow: column;
+	}
+	.top-header-area {
+		
+	}
+
+	.top-header-area .contact-info {
+	    width: 100%;
+	    text-align: center;
+	}
+	.slider-area .owl-carousel figure.hot-item figcaption.hot-item-caption p{
+		font-size: 12px;
+	}
+	.single-popular-course .seat-rating-fee .course-fee a,
+	.single-popular-course .seat-rating-fee .course-fee a{
+		width: 65px;
+	}
+	.single-popular-course .seat-rating-fee .seat-rating div{
+		padding: 0 13px;
+	}
+	.top-header-area .follow-us {
+    display: none;
+}
+
+.contaty li {
+    height: 25px;
+    width: 25px;
+    border: 1px solid #dad6d6;
+    float: left;
+    padding: 0px 7px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #666;
+}
+.add-to-card a {
+    color: #fff;
+    font-size: 11px;
+}
+.add-to-wishlist a {
+    color: #fff;
+    font-size: 12px;
+}
+.contatytopul .add-to-Returns a {
+    color: #fff;
+    font-size: 12px;
+}
+.pstrongad {
+    color: #f00;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.scarditemdetailul {
+    overflow: auto;
+    max-height: 250px;
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+}
+.scarditem {
+    background-color: #fff;
+    top: auto;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    height: 80px;
+    width: 70px;
+    overflow: hidden;
+    z-index: 2000;
+    border: 1px solid #ddd;
+}
+.owl-nav {
+    width: 100%;
+    position: relative;
+    top: -59%;
+    display: flex;
+    justify-content: space-between;
+}
+.-ml-15{
+	margin-left: 0px;
+}
+.slider-area .owl-carousel.owl-drag .owl-item {
+    border: 1px solid #d2d1d1;
+    margin-right: 6px!important;
+    width: 100px!important;
+}
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    height: 163px;
+}
+.scarditemdetailul123 {
+    text-align: center;
+    height: auto;
+    padding: 6px 0;
+    border-bottom: 1px solid #ddd;
+    opacity: 0.6;
+}
+.scarditemdetailul123 img{
+    height: 120px;
+}
+.scarditemdetailul123 h3 {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+.soniaofferitemres{
+    width: 200px;
+}
+.slidercont{
+  width:100%!important; height: 200px!important; 
+  
+}
+.soniaofferitemres123 {
+    
+    width: 100%!important; 
+    height: 200px!important; 
+}
+
+
+}

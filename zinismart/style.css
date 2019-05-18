@@ -1,0 +1,41 @@
+.media img{width: 220px; height: 100px; margin-left: 25px;}
+.media2 img{width:55px; height: 55px;margin-left:40px;margin-top: 25px;}
+.search_body{margin-top:30px; border:2px solid black; margin-left: 15px;width: 500px;}
+.media3 img{width: 40px; height:40px;margin-top:30px;border-right: 1px solid black;margin-left:70px;}
+.media4 img{width: 40px; height:40px;margin-top:30px;}
+.media5 h3{margin-top: 30px;background: red;margin-left:20px;}
+.subdeader{border-bottom: 4px solid red;}
+.header ul li a{border-left: 1px solid #ddd;}
+.header a{border-right: 1px solid #ddd;}
+.list-group{border-bottom: 1px solid white; height: 500px;}
+.product_bar{height: 100px; margin-top: 10px;}
+.product_bar p{margin-top:20px;font-size: 30px; margin-left: 90px;}
+.crsl img{height: 180px;width:70px;}
+.crsl{margin-top:10px;}
+.tag h3{text-align: center;padding-top: 20px;}
+.tag{height: 80px;margin-top:5px;}
+.products img{height: 150px;margin-right: 10px;}
+.products a p{text-align:center;}
+.products p{text-align: center;}
+.details h4{font-size: 20px;background: #FFD4D4; float: left;width: 38%;height: 40px;}
+.details p{background: red;height: 40px;}
+.item{border:1px solid #D2D1D1;margin-right:10px;}
+.offer{background: #FBFBFB;}
+.bgcolor{
+	background: red;
+	border-bottom: 4px solid white;
+    padding: 0px 12px;
+    font-size: 15px;
+    line-height: 38px;
+    color: #fff;
+    text-transform: capitalize;
+    height: 730px;
+    margin-left: 15px;
+}
+.bgcolor:hover{background: red;
+
+
+}
+.listlest{width: 400px;height: 700px;}
+
+

@@ -1,0 +1,42 @@
+ $(document).ready(function() {
+  $('.owl-carousel').owlCarousel({
+    loop: true,
+    autoplay: true,
+    margin: 10,
+    responsiveClass: true,
+    responsive: {
+      0: {
+        items: 4,
+        nav: true
+      },
+      600: {
+        items: 4,
+        nav: false
+      },
+      1000: {
+        items: 7,
+        nav: true,
+        loop: true,
+        margin: 20
+      }
+    }
+  });
+
+$('.classy-navbar-toggler').click(function(){
+  $('.mobile-overlay').show();
+  console.log('menu button click..')
+})
+
+$('.mobile-overlay').click(function(){
+  $('.classy-menu').removeClass('menu-on');
+  $(this).hide()
+})
+
+$('.mobile-search .sre-btn-toogle').click(function(){
+    $('.src-body').toggle(100);  
+})
+
+
+
+
+})
